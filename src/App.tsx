@@ -9,7 +9,7 @@ function Result({ correct }: any) {
       <h2>
         You guessed {correct} answers from {questions.length}
       </h2>
-      <a href="/">
+      <a href="https://vladyslavos.github.io/React_Quiz/">
         <button>Try again</button>
       </a>
     </div>
