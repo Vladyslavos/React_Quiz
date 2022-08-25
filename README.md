@@ -1,8 +1,8 @@
 <h1 align = "center">Simple Quiz on React and TypeScript</h1>
 <p><b>Description: </b>A simple quiz project where the user can select an option and see the result</p> 
-<https://vladyslavos.github.io/React_Quiz/">LIVE</a>
+<a href = "https://vladyslavos.github.io/React_Quiz/">LIVE</a>
 
-![React-App-Google-Chrome-2022-08 (5)](https://user-images.githubusercontent.com/67589338/186728312-45fae382-c17a-449e-ba3b-8cd3790c7edd.gif)
+![QUIZGIF](https://user-images.githubusercontent.com/67589338/186728959-92edf998-4f15-4b9f-979e-ca2a6242abdb.gif)
 
 
 <b>Technologies that I used:</b>
